@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/CompleteReg.cpp
+CompleteReg.h
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/CompleteReg.h
+
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/CompleteReg.h
+string
+-
+Team.h
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/Team.h
+
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/Player.cpp
+Player.h
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/Player.h
+
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/Player.h
+string
+-
+iostream
+-
+
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/Team.cpp
+Team.h
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/Team.h
+
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/Team.h
+string
+-
+iostream
+-
+Player.h
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/Player.h
+
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/main.cpp
+iostream
+-
+Team.h
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/Team.h
+CompleteReg.h
+C:/Users/User/Desktop/2019-2020 spring/CS201-2/HW3/PartB/CompleteReg.h
+
