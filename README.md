@@ -1,3 +1,3 @@
-# CS201 Homework Assignments
+# CS201 Fundamental Structures of Computer Science I
 
-Fundamental Structures of Computer Science I - Spring 2020
+Spring 2020 - Homework Assignments
